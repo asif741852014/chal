@@ -1,0 +1,8 @@
+name: jjj
+on:
+  create
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo " hai hello"
